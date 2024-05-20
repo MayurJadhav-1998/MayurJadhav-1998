@@ -6,7 +6,7 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?logo=instagram&logoColor=white&link=https://instagram.com/mayur_jv/)](https://www.instagram.com/mayur_jv)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:mayurjadhavsm@gmail.com)
 [![Website Badge](https://img.shields.io/badge/-Website-c14438?style=flat&logo=Google-Chrome&logoColor=white&link=https://mayurjadhav-1998.github.io/Resume/)](https://mayurjadhav-1998.github.io/Resume/)
-[![Github](https://img.shields.io/github/followers/MayurJadhav-1998?label=Follow&style=social)](https://github.com/MayurJadhav-1998)
+[![Github](https://img.shields.io/github/followers/MayurJadhav-1998?label=Follow&style=social)](https://github.com/MayurJadhav-1998) 
 
 📚 As a Master's student in Information Systems at The University of Texas at Arlington, I possess a wealth of knowledge and expertise in cutting-edge technologies. My skills span across Python, TensorFlow, PyTorch, LangChain, and LlamaIndex, showcasing my prowess in AI and data engineering.  
 
